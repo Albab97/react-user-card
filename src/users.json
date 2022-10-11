@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Noreen Cajucom",
+        "designation":"3D Artist",
+        "image":"https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+        "rating":3.4,
+        "reviews":3488,
+        "about":"Noreen has been making video games for a living for more than 14 years as a Designer,Producer,Creative director, and Executive director, creating games for PC, Xbox, mobile and Facebook."
+    },
+    {
+        "id":2,
+        "name":"Rachel Soriano",
+        "designation":"Vice President Citi",
+        "image":"https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg",
+        "rating":4.2,
+        "reviews":4311,
+        "about":"David has been making video games for a living for more than 14 years as a Designer,Producer,Creative director, and Executive director, creating games for PC, Xbox, mobile and Facebook."
+    },
+    {
+        "id":3,
+        "name":"John Smilga",
+        "designation":"Web Developer",
+        "image":"https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+        "rating":3.9,
+        "reviews":1982,
+        "about":"David has been making video games for a living for more than 14 years as a Designer,Producer,Creative director, and Executive director, creating games for PC, Xbox, mobile and Facebook."
+    },
+    {
+        "id":4,
+        "name":"Himanshu Garg",
+        "designation":"QA Tester",
+        "image":"https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+        "rating":4.0,
+        "reviews":2598,
+        "about":"David has been making video games for a living for more than 14 years as a Designer,Producer,Creative director, and Executive director, creating games for PC, Xbox, mobile and Facebook."
+    }
+]
